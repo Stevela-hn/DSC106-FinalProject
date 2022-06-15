@@ -1,0 +1,19 @@
+.center_plot {
+    margin: auto;
+    text-align: center;
+}
+
+.section {
+    text-align: center;
+}
+
+.selected {
+    opacity: 1 !important;
+    stroke: black;
+    stroke-width: 1px;
+}
+
+.title {
+    text-align: center;
+    font-size: x-large;
+}
